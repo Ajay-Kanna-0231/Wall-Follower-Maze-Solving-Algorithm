@@ -10,7 +10,7 @@ This C++ project implements a maze-solving algorithm based on the wall follower 
 - Code written in C++.
 - Designed to work with Tinkercad
 
-## File Dtructure and Details
+## File Structure and Details
 ├── README.md
 ├── Setup_in_Tinkercad_image.png
 ├── wall_follower.cpp
