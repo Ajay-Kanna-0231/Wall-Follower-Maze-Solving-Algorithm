@@ -11,9 +11,9 @@ This C++ project implements a maze-solving algorithm based on the wall follower 
 - Designed to work with Tinkercad
 
 ## File Structure and Details
-- README.md
-- Setup_in_Tinkercad_image.png
-- wall_follower.cpp
+- README.md/
+- Setup_in_Tinkercad_image.png/
+- wall_follower.cpp/
   
 - The readme file contains the introduction about this project
 - The Setup_in_Tinkercad_image.png has the image of the tinkercad circuit in it
